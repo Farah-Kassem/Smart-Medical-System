@@ -1,6 +1,6 @@
 # Smart Medical System: Real-Time Biomedical Monitoring and Response for Smart Cities
 
-This repository contains the implementation of a distributed Internet of Medical Things (IoMT) ecosystem designed for remote patient monitoring. As detailed in the "Final Project Report.pdf", this system addresses the latency and single-point-of-failure risks of cloud-only solutions by utilizing a decentralized edge computing architecture.
+This repository contains the implementation of a distributed Internet of Medical Things (IoMT) ecosystem designed for remote patient monitoring. This system addresses the latency and single-point-of-failure risks of cloud-only solutions by utilizing a decentralized edge computing architecture.
 
 **Key Features & Architecture**
 
